@@ -1,0 +1,15 @@
+fun.c:7:6:can_fil_config	8	static
+fun.c:27:6:HAL_CAN_TxMailbox0CompleteCallback	48	static
+fun.c:37:6:HAL_CAN_TxMailbox1CompleteCallback	48	static
+fun.c:46:6:HAL_CAN_TxMailbox2CompleteCallback	48	static
+fun.c:54:6:HAL_CAN_RxFifo0MsgPendingCallback	32	static
+fun.c:245:6:HAL_CAN_ErrorCallback	48	static
+fun.c:253:6:call_to_speed_details	24	static
+fun.c:263:6:call_to_battery_details	16	static
+fun.c:273:6:call_to_voltage_details	16	static
+fun.c:283:6:call_to_default	16	static
+fun.c:300:6:can_tx	24	static
+fun.c:313:6:pgn	16	static
+fun.c:327:6:CAN_SEND	16	static
+fun.c:335:6:CAN_INIT	24	static
+fun.c:346:6:CAN_ACTIVATE	24	static
